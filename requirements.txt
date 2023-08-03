@@ -1,7 +1,6 @@
 numpy
-pandas
+pandas<2
 streamlit
 scikit-learn
 statsmodels
 seaborn
-pickle
